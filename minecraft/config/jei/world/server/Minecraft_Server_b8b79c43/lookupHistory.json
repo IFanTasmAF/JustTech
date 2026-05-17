@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"charta:dealer_table"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bigreactors:reinforced_reactorcomputerport"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bigreactors:reinforced_reactorfluidport_forge_passive"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bigreactors:reinforced_reactorcreativewatergenerator"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bigreactors:basic_reactorchargingportfe"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

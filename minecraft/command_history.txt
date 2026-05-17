@@ -1,0 +1,20 @@
+/locate structure mvs:railway
+/tp @s -2288 ~ -1072
+/kill
+/tp FanTasmAF
+/tpx FanTasmAF
+/gamemode creative FanTasmAF
+/tp Jaboficator
+/gamemode creative Jaboficator
+/tp Jaboficator
+/give FanTasmAF minecraft:firework_rocket 64
+/give Jaboficator minecraft:firework_rocket 64
+/give @a minecraft:firework_rocket[fireworks={flight_duration:3}]
+/tp Jaboficator
+/tp FanTasmAF
+/tp Jaboficator
+/tp FanTasmAF
+/tp FanTasmAF Jaboficator
+/tp FanTasmAF
+/tp Jaboficator
+/tp FanTasmAF
