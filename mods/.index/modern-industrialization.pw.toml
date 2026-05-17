@@ -1,0 +1,17 @@
+filename = 'Modern-Industrialization-2.4.3.jar'
+name = 'Modern Industrialization'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.4.3'
+
+[download]
+hash = '47e9edaadb341e6dcb6f61ecfd4e1381025ed01d6673507dc40d34eaabd21f1fe497ba751ab85edf05537dd326fd72e09a6dc751fee1da1d84fbe397743f7d61'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Gov5Dboq/versions/zI1AzXFg/Modern-Industrialization-2.4.3.jar'
+
+[update.modrinth]
+mod-id = 'Gov5Dboq'
+version = 'zI1AzXFg'

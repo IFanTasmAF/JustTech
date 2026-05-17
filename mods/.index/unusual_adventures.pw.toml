@@ -1,0 +1,17 @@
+filename = 'unusual_adventures-1.1.0b-neoforge-1.21.1.jar'
+name = 'Unusual Adventures'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.0b'
+
+[download]
+hash = 'b610ad0c928d5f73934c5686f8b2832ad06f5842886560c77dcb8f7c23b5940b5545160d21e6f6a7122aca9c813da9e7634ccf49c838388bd12e3766ced3b346'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/k2byGYgN/versions/uvjAbGV2/unusual_adventures-1.1.0b-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'k2byGYgN'
+version = 'uvjAbGV2'

@@ -1,0 +1,17 @@
+filename = 'effortlessbuilding-4.1+1.21.1.jar'
+name = 'Effortless Building'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Effortless Building 4.1 (1.21.1)'
+
+[download]
+hash = '10188c088c3e32d21275fd02d1aa31ffb6dd9f86'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8060011
+project-id = 302113

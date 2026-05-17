@@ -1,0 +1,17 @@
+filename = 'createcybernetics-0.4.6b-neoforge-1.21.1.jar'
+name = 'Cybernetics'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'createcybernetics-0.4.6b-neoforge-1.21.1'
+
+[download]
+hash = 'a8ccd3e065b0e18f3e4a3a6bc81d5e9c652e4ad2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8074302
+project-id = 1430192

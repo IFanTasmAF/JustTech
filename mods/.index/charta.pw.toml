@@ -1,0 +1,17 @@
+filename = 'charta-neoforge-1.21.1-1.2.5.jar'
+name = 'Charta'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Charta 1.2.5'
+
+[download]
+hash = '8a86e06ff70316499d9d7ea6239b5ae645a733e9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8029373
+project-id = 1150549

@@ -1,0 +1,17 @@
+filename = 'the_wasteland_reworked-1.0.5-neoforge-1.21.1.jar'
+name = 'The Wasteland'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.0.5'
+
+[download]
+hash = '6ca6d75bed8ae8b1f3e3108f02004973601b90d10c0a98d034cecb1f58446b1bdda540edabfba9edc38f861106ca58df9e7ed84ae0d5d54136702cd0ad582464'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ysJNoSEC/versions/cCTr97HM/the_wasteland_reworked-1.0.5-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'ysJNoSEC'
+version = 'cCTr97HM'

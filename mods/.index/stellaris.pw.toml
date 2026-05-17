@@ -1,0 +1,17 @@
+filename = 'stellaris-1.21-neoforge-1.4.22.jar'
+name = 'Stellaris'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Neoforge 1.21] Stellaris 1.4.22'
+
+[download]
+hash = 'c01e377917d8e2e4d56fe2f396029cb6e3ccc913'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7949722
+project-id = 1036270

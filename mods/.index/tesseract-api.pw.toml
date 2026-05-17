@@ -1,0 +1,17 @@
+filename = 'tesseract-api-neoforge-1.11.12-1.21.1.jar'
+name = 'Tesseract API'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.11.12-1.21.1'
+
+[download]
+hash = '448557fba4238f51a014cec3847e348e6ecbefe71951328025140fa7bd3f7d3bb5f23304abc0996eca0675877785ee1525e397d247e1bba1e0a6c431bd13e65a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pHNT1iyc/versions/yOrn6SZA/tesseract-api-neoforge-1.11.12-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'pHNT1iyc'
+version = 'yOrn6SZA'

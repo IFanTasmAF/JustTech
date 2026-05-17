@@ -1,0 +1,17 @@
+filename = 'Cyberpunk_2077_Guns_Pack_PBJ.jar'
+name = "Cyberpunk 2077 Guns for Vic's Point Blank"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1', '1.21', '1.21', '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.17.3'
+
+[download]
+hash = '00302748ad9e66ac8b5ebd8c1a985242f5e19da38b04a4de03940cb6cb5585653aee64414f745fa79226016f6197f9c746172a1b9e82308f096779232391de89'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nHm2V2Qm/versions/CbxC7nkf/Cyberpunk_2077_Guns_Pack_PBJ.jar'
+
+[update.modrinth]
+mod-id = 'nHm2V2Qm'
+version = 'CbxC7nkf'

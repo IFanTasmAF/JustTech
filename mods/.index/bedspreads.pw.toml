@@ -1,0 +1,17 @@
+filename = 'bedspreads-neoforge-7.0.0+1.21.1.jar'
+name = 'Bedspreads'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'bedspreads-neoforge-7.0.0+1.21.1.jar'
+
+[download]
+hash = 'ab8e9a08845272bda49c516826af51af09fd957f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6405994
+project-id = 308653
