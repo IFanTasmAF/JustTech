@@ -1,6 +1,5 @@
 # Сборка модов для Minecraft 1.21.1 (NeoForge)
 
-**Версия сборки:** 1.0.0  
 **Minecraft:** 1.21.1  
 **Модлоадер:** NeoForge  
 **Совместимость:** Fabric-моды работают через Sinytra Connector.
